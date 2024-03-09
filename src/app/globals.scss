@@ -1,0 +1,22 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.header {
+  background-color: #cab6dc;
+  color: #575454;
+}
+
+.user-details {
+  border-collapse: collapse;
+  width: 100%;
+  td,
+  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+}
+
+.error{
+    font-size: 12px;
+    color:red
+}
